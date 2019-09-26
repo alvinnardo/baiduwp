@@ -16,15 +16,15 @@
 
 ##### 1.点击浏览器左上角的标志，如下图
 
-![avatar](https://github.com/Alvin-Leee/baiduwp/blob/master/pictures/OperaWP/1.png)
+![avatar](https://github.com/Alvin-Leee/baiduwp/blob/master/pictures/OperaWP/1.jpg)
 
 ##### 2.在下拉菜单中选择 ’扩展‘ 选项，如下图
 
-![avatar](https://github.com/Alvin-Leee/baiduwp/blob/master/pictures/OperaWP/1.jpg)
+![avatar](https://github.com/Alvin-Leee/baiduwp/blob/master/pictures/OperaWP/2.jpg)
 
 ##### 3.在搜索框中输入 ‘user-agent’, 选择一个下载数量多的点开
 
-![avatar](https://github.com/Alvin-Leee/baiduwp/blob/master/pictures/OperaWP/2.jpg)
+![avatar](https://github.com/Alvin-Leee/baiduwp/blob/master/pictures/OperaWP/3.jpg)
 
 ##### 4.点击 ‘添加到Opera’ 按钮
 
