@@ -2,13 +2,13 @@
 
 #### 汇总百度网盘高速下载方法(最高50M/s)
 
-##### 1.[使用Chrome浏览器](): 想翻墙+百度快速下载的朋友选择该方法
+##### 1.[使用Chrome浏览器](https://github.com/Alvin-Leee/baiduwp/blob/master/Chrome浏览器加速.md): 想翻墙+百度快速下载的朋友选择该方法
 
-##### 2.[使用Opera浏览器](): 最简单的方法，想只有百度快速下载的朋友选择该方法
+##### 2.[使用Opera浏览器](https://github.com/Alvin-Leee/baiduwp/blob/master/Opera浏览器加速.md): 最简单的方法，想只有百度快速下载的朋友选择该方法
 
 ----------
 
-走之前给个star呗~
+走之前给个star呗，页面最上方，如下图位置~
 
 ![avatar](https://github.com/Alvin-Leee/baiduwp/blob/master/pictures/star.png)
 

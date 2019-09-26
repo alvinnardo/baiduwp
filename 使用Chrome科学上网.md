@@ -48,6 +48,6 @@ chrome下载地址：https://pan.baidu.com/s/18mBz1KZlMAAGP3Y-mK_ptQ
 
 ![avatar](https://github.com/Alvin-Leee/baiduwp/blob/master/pictures/ChromeWall/6-2.png)
 
-注：如果过程中有问题，可以留言，我会及时帮助你的；如果可行的话，右上角给个star哦~
+注：如果过程中有问题，可以留言，我会及时帮助你的；如果可行的话，右上角给个star哦，页面最上面，如下图的位置~
 
 ![avatar](https://github.com/Alvin-Leee/baiduwp/blob/master/pictures/star.png)
