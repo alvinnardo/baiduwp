@@ -6,6 +6,8 @@
 
 ##### 2.[使用Opera浏览器](https://github.com/Alvin-Leee/baiduwp/blob/master/articals/Opera浏览器加速.md): 最简单的方法，想只有百度快速下载的朋友选择该方法
 
+##### 3.[使用Firefox浏览器](https://github.com/Alvin-Leee/baiduwp/blob/master/articals/Firefox浏览器加速.md)：更适合大学生和程序员的方法
+
 ----------
 
 走之前给个star呗，页面最上方，如下图位置~
