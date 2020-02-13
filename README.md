@@ -12,7 +12,5 @@
 
 ----------
 
-走之前给个star呗，页面最上方，如下图位置~
 
-![avatar](https://github.com/Alvin-Leee/baiduwp/blob/master/pictures/star.png)
 
